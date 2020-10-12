@@ -1,7 +1,7 @@
 # HEC-Dataset
 This is Dataset of our paper *Hashtags, Emotions, and Comments: A Large-Scale Dataset to Understand Fine-Grained Social Emotions to Online Topics* [\[pdf\]](https://polyusmart.net/pdf/ding2020hashtags.pdf)
 
-You can download it from [Google Drive](https://drive.google.com/drive/folders/14Dc-M_KvrV_AXRxIlvqJXBTmH4rNIeqp?usp=sharing)
+You can download it from [OneDrive](https://1drv.ms/u/s!AhlpLCotyrgNu2N48OKtFf9IBLTt?e=g6gQuH)
 
 # Files
 There are two files of our datasets:
