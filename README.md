@@ -20,5 +20,6 @@ The data structure is described in the following.
 
 Important Notes:
 
-1. Both hashtags.txt and comments.txt are in Chinese and encoded with UTF-8.
-2. The dataset is released under a Creative Commons Attribution 3.0 Unported License (http://creativecommons.org/licenses/by/3.0/).
+1. Both hashtag&emotion.txt and hashtag&comment are in Chinese and encoded with UTF-8.
+2. The data of our dataset is sorted in alphabetical order.
+3. The dataset is released under a Creative Commons Attribution 3.0 Unported License (http://creativecommons.org/licenses/by/3.0/).
